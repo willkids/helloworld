@@ -1,0 +1,32 @@
+.vinheader {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+    height: 200px;
+}
+
+#mine {
+    background-color: aqua;
+}
+
+.coolbigtext {
+    font-size: 40px;
+}
+
+
+.leftbox {
+width:20%;
+    background-color: gray;
+    height: 100%;
+    float:left;
+}
+
+.rightbox {
+width:80%;
+    background-color: white;
+    height: 100%;
+    float:right;
+}
+
