@@ -1,5 +1,5 @@
 .vinheader {
-    background-color:black;
+    background-color:gray;
     color:white;
     clear:both;
     text-align:center;
@@ -18,7 +18,7 @@
 
 .leftbox {
 width:20%;
-    background-color: gray;
+    background-color: black;
     height: 100%;
     float:left;
 }
